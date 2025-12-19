@@ -1,5 +1,4 @@
 # MawPLA: prediction of protein-ligand binding affinity using wavelet neural network and based on interpretable bimodal network
-Ya Li, Xingyu Liao, Haoze Chai, Junwei Du, Xin Gao, Member, IEEE, and Bin Yu, Member, IEEE
 
 
 ##Introduction
@@ -44,3 +43,4 @@ $ python main.py
 '''
 $ python test.py
 '''
+
